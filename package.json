@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
-    "@videojs/http-streaming": "2.4.2",
+    "@videojs/http-streaming": "https://github.com/iroha7941/http-streaming/releases/download/v2.4.2-decryption/videojs-http-streaming-2.4.2.tgz",
     "@videojs/xhr": "2.5.1",
     "global": "4.3.2",
     "keycode": "^2.2.0",
